@@ -141,7 +141,7 @@ export default function Projects() {
                 <div className="flex mt-4">
                   <Button
                     color="transparent"
-                    href="https://github.com/seuusuario/portfolio"
+                    href="https://github.com/renan00923/chess-js-game"
                     target="_blank"
                   >
                     <FontAwesomeIcon
@@ -151,7 +151,7 @@ export default function Projects() {
                   </Button>
                   <Button
                     color="transparent"
-                    href="https://seuportfolio.vercel.app"
+                    href="https://renan00923.github.io/chess-js-game/"
                     target="_blank"
                   >
                     <SiGooglecloud className="text-gray hover:text-blue-400 text-xl" />
