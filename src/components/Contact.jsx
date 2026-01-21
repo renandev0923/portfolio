@@ -57,7 +57,7 @@ export default function Contact() {
             <div>
               <FooterTitle title="Redes sociais" />
               <FooterLinkGroup col>
-                <FooterLink href="https://github.com/renan0923">
+                <FooterLink href="https://github.com/renandev0923">
                   Github
                 </FooterLink>
                 {/* <FooterLink href="https://linkedin.com/in/seuusuario">
@@ -86,7 +86,7 @@ export default function Contact() {
               href="https://twitter.com/seuusuario"
               icon={BsTwitter}
             /> */}
-            <FooterIcon href="https://github.com/seuusuario" icon={BsGithub} />
+            <FooterIcon href="https://github.com/renandev0923" icon={BsGithub} />
           </div>
         </div>
       </div>
